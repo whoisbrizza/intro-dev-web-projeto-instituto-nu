@@ -4,7 +4,7 @@ Repositório com o objetivo de registrar meu progresso no Projeto Instituto Nu d
 
 ## Demonstração:
 
-whoisbrizza.github.io/intro-dev-web-projeto-instituto-nu/
+[intro-dev-web-projeto-instituto-nu/](https://whoisbrizza.github.io/intro-dev-web-projeto-instituto-nu/)
 
 ## Stacks utilizadas
 
