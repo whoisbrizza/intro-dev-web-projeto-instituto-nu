@@ -1,8 +1,14 @@
-body {
-    background-color: #111827;
-    color: #fff;
-    height: 100%;
+:root {
+    --white: #FFFFFF;
+    --wild-blue: #7A89B8;
+    --jade-green: #03BE7A;
+    --torch-red: #F81B1B;
+}
 
+body {
+    background-color: var(--wild-blue);
+    color: var(--white);
+    height: 100%;
 }
 
 section {
@@ -27,12 +33,13 @@ button {
 }
 
 .primary {
-    background-color: #18e990;
+    background-color: var(--jade-green);
+    color: var(--white);
 }
 
 .secondary {
-    background-color: #cc0000;
-    color: #fff;
+    background-color: var(--torch-red);
+    color: var(--white);
 }
 
 input {
