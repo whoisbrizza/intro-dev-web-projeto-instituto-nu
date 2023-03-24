@@ -6,6 +6,8 @@ Repositório com o objetivo de registrar meu progresso no Projeto Instituto Nu d
 
 [intro-dev-web-projeto-instituto-nu/](https://whoisbrizza.github.io/intro-dev-web-projeto-instituto-nu/)
 
+<img src='introducao-dev-web-projeto-instituto-nu.gif'>
+
 ## Stacks utilizadas
 
 JavaScript, HTML e CSS
